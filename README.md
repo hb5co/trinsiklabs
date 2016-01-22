@@ -1,2 +1,2 @@
-# trinksiklabs
+# trinsiklabs
 Trinsik Labs website
